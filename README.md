@@ -24,4 +24,7 @@
 (provided that the entered number is also included in the comparison)
 
 
+![Ekran Alıntısı q](https://user-images.githubusercontent.com/69357065/141339397-638b14fc-e574-4bc4-81cb-1b55ab196e69.JPG)
+
+
 ```
