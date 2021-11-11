@@ -19,7 +19,7 @@ int main()
 	}
 	
 	min = array[0];
-	for( i=1; i<5; i++)
+	for( i=1; i<size; i++)
 	{
 	
 		if(array[i] < min)
