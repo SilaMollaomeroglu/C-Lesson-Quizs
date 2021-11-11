@@ -20,17 +20,19 @@
 
 @@ question1.c @@
 
-* Program that finds the smallest of several integers equal to the entered number. 
+* Program that finds the smallest of several integers equal to the entered number.The first integer entered also determines how many numbers to enter next.
 (provided that the entered number is also included in the comparison)
 
 OUTPUT
 Enter some integers:
-5
-8
-9
+6
 12
-67
-smallest: 5
+45
+76
+987
+567
+23
+smallest: 6
 
 
 ```
