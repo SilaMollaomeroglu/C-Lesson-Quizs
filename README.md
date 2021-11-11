@@ -30,7 +30,7 @@ Enter some integers:
 9
 12
 67
-min: 5
+smallest: 5
 
 
 ```
