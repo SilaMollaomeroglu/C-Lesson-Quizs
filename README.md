@@ -20,11 +20,17 @@
 
 @@ question1.c @@
 
-* The program that finds the smallest of several. 
+* Program that finds the smallest of several integers equal to the entered number. 
 (provided that the entered number is also included in the comparison)
 
-
-![Ekran Alıntısı q](https://user-images.githubusercontent.com/69357065/141339397-638b14fc-e574-4bc4-81cb-1b55ab196e69.JPG)
+OUTPUT
+Enter some integers:
+5
+8
+9
+12
+67
+min: 5
 
 
 ```
