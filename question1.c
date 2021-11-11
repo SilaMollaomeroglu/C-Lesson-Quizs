@@ -12,14 +12,14 @@ int main()
 	int array[value], i, j, elements;
 	
 	array[0] = value;
-	for(i=1; i<value; i++)
+	for(i=1; i<value+1; i++)
 	{
 		scanf("%d", &elements);
 		array[i] = elements;
 	}
 	
 	smallest = array[0];
-	for( i=1; i<value; i++)
+	for( i=1; i<value+1; i++)
 	{
 	
 		if(array[i] < smallest)
