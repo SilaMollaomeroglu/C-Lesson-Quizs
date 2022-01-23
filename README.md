@@ -19,6 +19,7 @@
 
 
 @@ question1.c @@
+```
 
 * Program that finds the smallest of several integers equal to the entered number.The first integer entered also determines how many numbers to enter next.
 (provided that the entered number is also included in the comparison)
@@ -35,4 +36,11 @@ Enter some integers:
 smallest: 6
 
 
+```diff
+@@ question3.c @@
 ```
+
+* A program that takes name, surname and note information from the user and adds the node to the singly linked list.
+![image](https://user-images.githubusercontent.com/69357065/150690682-7f6dae49-4b14-440b-b96c-d1ae5cf3ed09.png)
+
+```diff
