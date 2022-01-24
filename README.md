@@ -41,6 +41,7 @@ smallest: 6
 ```
 
 * A program that takes name, surname and note information from the user and adds the node to the singly linked list.
+ 
 ![image](https://user-images.githubusercontent.com/69357065/150690682-7f6dae49-4b14-440b-b96c-d1ae5cf3ed09.png)
 
 ```diff
